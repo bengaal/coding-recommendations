@@ -41,7 +41,7 @@ these rules.
   - Avoid elements for layout porpose only.
   - Use HTML5 elements like section or article.
   - Don't use HTML elements for styling, use CSS instead.
-  - Encapsulate views like records with an element. (e.g. <div>)
+  - Encapsulate views like records with an element. (e.g. &lt;div>)
 
 ## Commits
   - After the commit the code should still work.
